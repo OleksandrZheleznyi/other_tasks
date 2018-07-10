@@ -1,1 +1,1 @@
-Different tasks on C++, also with using OOP
+Different tasks on C++, also with using OOP, STL.
